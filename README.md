@@ -16,4 +16,4 @@ Criação dos endpoints de signup e login.
 
 ### Exercício 3
 
-Criação do endpoint de getProfile.
+Criação do endpoint de getProfile que retorna os dados de user (exceto a senha) e com a url pública da imagem de perfil.
