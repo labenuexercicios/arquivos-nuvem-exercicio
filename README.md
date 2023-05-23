@@ -1,5 +1,8 @@
 # Arquivos na nuvem - Exercício
 
+## Antes de começar
+Esse exercício é opcional. Caso prefira não criar uma conta na AWS, use o tempo livre para revisar outros conteúdos ou focar no projeto.
+
 ## Enunciado
 
 Crie uma API que gerencia users, contendo endpoints de signup, login e getProfile. <br>
